@@ -1,0 +1,15 @@
+/Users/Eduard/Desktop/C#_education/test_4/bin/Debug/net6.0/test_4
+/Users/Eduard/Desktop/C#_education/test_4/bin/Debug/net6.0/test_4.deps.json
+/Users/Eduard/Desktop/C#_education/test_4/bin/Debug/net6.0/test_4.runtimeconfig.json
+/Users/Eduard/Desktop/C#_education/test_4/bin/Debug/net6.0/test_4.dll
+/Users/Eduard/Desktop/C#_education/test_4/bin/Debug/net6.0/test_4.pdb
+/Users/Eduard/Desktop/C#_education/test_4/obj/Debug/net6.0/test_4.csproj.AssemblyReference.cache
+/Users/Eduard/Desktop/C#_education/test_4/obj/Debug/net6.0/test_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Eduard/Desktop/C#_education/test_4/obj/Debug/net6.0/test_4.AssemblyInfoInputs.cache
+/Users/Eduard/Desktop/C#_education/test_4/obj/Debug/net6.0/test_4.AssemblyInfo.cs
+/Users/Eduard/Desktop/C#_education/test_4/obj/Debug/net6.0/test_4.csproj.CoreCompileInputs.cache
+/Users/Eduard/Desktop/C#_education/test_4/obj/Debug/net6.0/test_4.dll
+/Users/Eduard/Desktop/C#_education/test_4/obj/Debug/net6.0/refint/test_4.dll
+/Users/Eduard/Desktop/C#_education/test_4/obj/Debug/net6.0/test_4.pdb
+/Users/Eduard/Desktop/C#_education/test_4/obj/Debug/net6.0/test_4.genruntimeconfig.cache
+/Users/Eduard/Desktop/C#_education/test_4/obj/Debug/net6.0/ref/test_4.dll
