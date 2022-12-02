@@ -1,5 +1,8 @@
 ﻿int[] myArray = { 3, 65, 23, 46, 673, 12985, 2, 26, 9, 84, 276, 45632 };
 Array.Sort(myArray);                            // списочный метод (сортирует список-аргумент)
+
+myArray = myArray.Append(10).ToArray();     // добавляет новый элемент в конец массива
+
 for (int i = 0; i < myArray.Length; i++)
 {
     System.Console.Write($"{myArray[i]} ");
